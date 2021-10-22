@@ -1,0 +1,12 @@
+.submit-btn {
+    background-color: #7367f0 !important;
+}
+
+.submit-btn:focus {
+    background-color: #44a04c !important;
+}
+
+.view-more {
+    color: #7367f0 !important;
+    
+}

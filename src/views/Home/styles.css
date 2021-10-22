@@ -1,0 +1,54 @@
+.RecruiterPartner {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.jobs-scrollbar{
+  height: 370px;
+  width: 1150px;
+  padding: 15px;
+  position: absolute;
+  /* z-index: 2; */
+  scrollbar-color: #7367f0 !important;
+}
+.buttonz{
+  padding: 0px !important;
+  height: 18px !important;
+}
+
+.search-card{
+  padding: 20px !important;
+
+}
+
+.upload-resume-bottom
+{
+  background-color: #7367f0 !important;
+  
+  /* justify-content: center; */
+  width: 10rem;
+  border: none;
+  border-radius: 25px;
+  color: #ffffff !important;
+  font-weight: 400;
+  /* padding: 16px; */
+  /* text-align: right; */
+  /* text-decoration: none; */
+  /* display:flex; */
+  font-size: 18px;
+}
+.card-upload-resume {
+  /* background: blue; */
+  background-image: linear-gradient(to left, blue , rgb(73, 98, 236)) !important;
+  color: #fff;  
+  width: 70rem;
+  height: 9.2rem;
+    /* @include media-breakpoint-down(xs) {
+      width: 140px;
+    } */
+  }
+  
+ 

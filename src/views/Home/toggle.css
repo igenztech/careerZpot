@@ -1,0 +1,24 @@
+.toggleContainer .toggle.all-jobs {
+    background: #7367f0 !important;
+    color: white !important;
+}
+
+.toggleContainer .toggle.company-jobs {
+    background: #7367f0;
+    color: white;
+}
+
+.toggleContainer .toggle.consultant-jobs {
+    background: #7367f0;
+    color: white;
+}
+
+.toggleContainer .toggle.relevance {
+    background: #7367f0;
+    color: white;
+}
+
+.toggleContainer .toggle.date {
+    background: #7367f0;
+    color: white;
+}

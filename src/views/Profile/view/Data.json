@@ -1,0 +1,1035 @@
+{
+  "CourseType": [
+    {
+      "value": "UNDERGRADUATE",
+      "label": "UNDERGRADUATE"
+    },
+    {
+      "value": "POSTGRADUATE",
+      "label": "POSTGRADUATE"
+    }
+  ],
+  "Degree": [
+    {
+      "value": "BTECH",
+      "label": "BTECH"
+    },
+    {
+      "value": "MTECH",
+      "label": "MTECH"
+    },
+    {
+      "value": "BCA",
+      "label": "BCA"
+    },
+    {
+      "value": "MCA",
+      "label": "MCA"
+    }
+  ],
+  "Colleges": [
+    {
+      "value": "Amity School Of Engineering & Technology (Noida)",
+      "label": "Amity School Of Engineering & Technology (Noida)"
+    },
+    {
+      "value": "Army Institute Of Technology (Pune)",
+      "label": "Army Institute Of Technology (Pune)"
+    },
+    {
+      "value": "Asia Pacific Institute of Information Technology (APIIT SD) (Panipat)",
+      "label": "Asia Pacific Institute of Information Technology (APIIT SD) (Panipat)"
+    },
+    {
+      "value": "B.I.T. Sindri (Dhanbad)",
+      "label": "B.I.T. Sindri (Dhanbad)"
+    },
+    {
+      "value": "BMS College Of Engineering (Bangalore)",
+      "label": "BMS College Of Engineering (Bangalore)"
+    },
+    {
+      "value": "BMS Institute Of Technology & Management (Bangalore)",
+      "label": "BMS Institute Of Technology & Management (Bangalore)"
+    },
+    {
+      "value": "BRACTS Vishwakarma Institute of Information Technology (Pune)",
+      "label": "BRACTS Vishwakarma Institute of Information Technology (Pune)"
+    },
+    {
+      "value": "Bannari Amman Institute Of Technology (Erode)",
+      "label": "Bannari Amman Institute Of Technology (Erode)"
+    },
+    {
+      "value": "Bharati Vidyapeeth University College Of Engineering (Pune)",
+      "label": "Bharati Vidyapeeth University College Of Engineering (Pune)"
+    },
+    {
+      "value": "Birla Institute Of Technology & Science (Pilani)",
+      "label": "Birla Institute Of Technology & Science (Pilani)"
+    },
+    {
+      "value": "Birla Institute Of Technology (Ranchi)",
+      "label": "Birla Institute Of Technology (Ranchi)"
+    },
+    {
+      "value": "CVR College Of Engineering (Hyderabad)",
+      "label": "CVR College Of Engineering (Hyderabad)"
+    },
+    {
+      "value": "Chaitanya Bharathi Institute Of Technology (Hyderabad)",
+      "label": "Chaitanya Bharathi Institute Of Technology (Hyderabad)"
+    },
+    {
+      "value": "College Of Engineering, Guindy (Chennai)",
+      "label": "College Of Engineering, Guindy (Chennai)"
+    },
+    {
+      "value": "College Of Engineering, Pune (Pune)",
+      "label": "College Of Engineering, Pune (Pune)"
+    },
+    {
+      "value": "Cummins College of Engineering for Women (Pune)",
+      "label": "Cummins College of Engineering for Women (Pune)"
+    },
+    {
+      "value": "Delhi Technological University (New-Delhi)",
+      "label": "Delhi Technological University (New-Delhi)"
+    },
+    {
+      "value": "Dwarkadas J. Sanghvi College Of Engineering (Mumbai)",
+      "label": "Dwarkadas J. Sanghvi College Of Engineering (Mumbai)"
+    },
+    {
+      "value": "Faculty Of Engineering, DIT University (Dehradun)",
+      "label": "Faculty Of Engineering, DIT University (Dehradun)"
+    },
+    {
+      "value": "Galgotias College Of Engineering And Technology (Noida)",
+      "label": "Galgotias College Of Engineering And Technology (Noida)"
+    },
+    {
+      "value": "Ganeshi Lal Bajaj Institute Of Technology & Management (Noida)",
+      "label": "Ganeshi Lal Bajaj Institute Of Technology & Management (Noida)"
+    },
+    {
+      "value": "Government College Of Engineering (Amravati)",
+      "label": "Government College Of Engineering (Amravati)"
+    },
+    {
+      "value": "Government College Of Engineering (Karad)",
+      "label": "Government College Of Engineering (Karad)"
+    },
+    {
+      "value": "Govt. Model Engineering College (Cochin)",
+      "label": "Govt. Model Engineering College (Cochin)"
+    },
+    {
+      "value": "Guru Nanak Dev Engineering College (Ludhiana)",
+      "label": "Guru Nanak Dev Engineering College (Ludhiana)"
+    },
+    {
+      "value": "IES College Of Technology (Bhopal)",
+      "label": "IES College Of Technology (Bhopal)"
+    },
+    {
+      "value": "IIIT, Allahabad (Allahabad)",
+      "label": "IIIT, Allahabad (Allahabad)"
+    },
+    {
+      "value": "IIIT, Hyderabad (Hyderabad)",
+      "label": "IIIT, Hyderabad (Hyderabad)"
+    },
+    {
+      "value": "IIT, Bombay (Mumbai)",
+      "label": "IIT, Bombay (Mumbai)"
+    },
+    {
+      "value": "IIT, Delhi (Delhi)",
+      "label": "IIT, Delhi (Delhi)"
+    },
+    {
+      "value": "IIT, Kanpur (Kanpur)",
+      "label": "IIT, Kanpur (Kanpur)"
+    },
+    {
+      "value": "IIT, Kharagpur (Kharagpur)",
+      "label": "IIT, Kharagpur (Kharagpur)"
+    },
+    {
+      "value": "IMS Engineering College (Ghaziabad)",
+      "label": "IMS Engineering College (Ghaziabad)"
+    },
+    {
+      "value": "Indian Institute Of Technology (Indian School Of Mines), Dhanbad (Dhanbad)",
+      "label": "Indian Institute Of Technology (Indian School Of Mines), Dhanbad (Dhanbad)"
+    },
+    {
+      "value": "Indraprastha Institute Of Information Technology Delhi (New Delhi)",
+      "label": ""
+    },
+    {
+      "value": "Institute Of Engineering & Technology, J.K.Lakshmipat University (Jaipur)",
+      "label": ""
+    },
+    {
+      "value": "Institute Of Technology (Ahmedabad)",
+      "label": "Institute Of Technology (Ahmedabad)"
+    },
+    {
+      "value": "J.B. Institute Of Technology (Dehradun)",
+      "label": "J.B. Institute Of Technology (Dehradun)"
+    },
+    {
+      "value": "JIS College Of Engineering (Kalyani, West Bengal)",
+      "label": "JIS College Of Engineering (Kalyani, West Bengal)"
+    },
+    {
+      "value": "JSS Academy Of Technical Education (Bangalore)",
+      "label": "JSS Academy Of Technical Education (Bangalore)"
+    },
+    {
+      "value": "Jaipur Engineering College And Research Center (Jaipur)",
+      "label": "Jaipur Engineering College And Research Center (Jaipur)"
+    },
+    {
+      "value": "Jawaharlal Nehru National College Of Engineering (Shimoga)",
+      "label": "Jawaharlal Nehru National College Of Engineering (Shimoga)"
+    },
+    {
+      "value": "K L University (Guntur)",
+      "label": "K L University (Guntur)"
+    },
+    {
+      "value": "K.S.R. College Of Enginnering (Thiruchengode)",
+      "label": "K.S.R. College Of Enginnering (Thiruchengode)"
+    },
+    {
+      "value": "KIET Group Of Institutions (Ghaziabad)",
+      "label": "KIET Group Of Institutions (Ghaziabad)"
+    },
+    {
+      "value": "KLE Dr M.S Sheshgiri College Of Engineering And Technology (Belgaum)",
+      "label": "KLE Dr M.S Sheshgiri College Of Engineering And Technology (Belgaum)"
+    },
+    {
+      "value": "KLS Gogte Institute Of Technology (Belagavi)",
+      "label": "KLS Gogte Institute Of Technology (Belagavi)"
+    },
+    {
+      "value": "Kongu Engineering College (Erode)",
+      "label": "Kongu Engineering College (Erode)"
+    },
+    {
+      "value": "Kuppam Engineering College (Kuppam)",
+      "label": "Kuppam Engineering College (Kuppam)"
+    },
+    {
+      "value": "Lakshmi Narain College Of Technology (Bhopal)",
+      "label": "Lakshmi Narain College Of Technology (Bhopal)"
+    },
+    {
+      "value": "Lovely Professional University (Phagwara)",
+      "label": "Lovely Professional University (Phagwara)"
+    },
+    {
+      "value": "M V J College Of Engineering (Bangalore)",
+      "label": "M V J College Of Engineering (Bangalore)"
+    },
+    {
+      "value": "M.S. Engineering College (Bangalore)",
+      "label": "M.S. Engineering College (Bangalore)"
+    },
+    {
+      "value": "M.S. Ramaiah Institute Of Technology (Bangalore)",
+      "label": "M.S. Ramaiah Institute Of Technology (Bangalore)"
+    },
+    {
+      "value": "MIT College Of Engineering (Pune)",
+      "label": "MIT College Of Engineering (Pune)"
+    },
+    {
+      "value": "Madhav Institute of Technology & Science (Gwalior)",
+      "label": "Madhav Institute of Technology & Science (Gwalior)"
+    },
+    {
+      "value": "Maharashtra Institute Of Technology (Aurangabad)",
+      "label": "Maharashtra Institute Of Technology (Aurangabad)"
+    },
+    {
+      "value": "Malla Reddy College of Engineering & Technology (Secunderabd)",
+      "label": "Malla Reddy College of Engineering & Technology (Secunderabd)"
+    },
+    {
+      "value": "Manipal Institue Of Technology (Manipal)",
+      "label": "Manipal Institue Of Technology (Manipal)"
+    },
+    {
+      "value": "Mepco Schlenk Engineering College (Sivakasi)",
+      "label": "Mepco Schlenk Engineering College (Sivakasi)"
+    },
+    {
+      "value": "Muffakham Jah College Of Engineering And Technology (Hyderabad)",
+      "label": "Muffakham Jah College Of Engineering And Technology (Hyderabad)"
+    },
+    {
+      "value": "NIT, Karnataka (Mangalore)",
+      "label": "NIT, Karnataka (Mangalore)"
+    },
+    {
+      "value": "National Institute Of Science & Technology (Berhampur)",
+      "label": "National Institute Of Science & Technology (Berhampur)"
+    }
+  ],
+  "companies": [
+    {
+      "value": "Apple",
+      "label": "Apple"
+    },
+    {
+      "value": "Phillips 66",
+      "label": "Phillips 66"
+    },
+    {
+      "value": "General Motors",
+      "label": "General Motors"
+    },
+    {
+      "value": "Ford Motor",
+      "label": "Ford Motor"
+    },
+    {
+      "value": "General Electric",
+      "label": "General Electric"
+    },
+    {
+      "value": "Valero Energy",
+      "label": "Valero Energy"
+    },
+    {
+      "value": "AT&T",
+      "label": "AT&T"
+    },
+    {
+      "value": "CVS Caremark",
+      "label": "CVS Caremark"
+    },
+    {
+      "value": "Fannie Mae",
+      "label": "Fannie Mae"
+    },
+    {
+      "value": "UnitedHealth Group",
+      "label": "UnitedHealth Group"
+    },
+    {
+      "value": "McKesson",
+      "label": "McKesson"
+    },
+    {
+      "value": "Verizon Communications",
+      "label": "Verizon Communications"
+    },
+    {
+      "value": "Hewlett-Packard",
+      "label": "Hewlett-Packard"
+    },
+
+    {
+      "value": "Marathon Petroleum",
+      "label": "Marathon Petroleum"
+    },
+    {
+      "value": "Citigroup",
+      "label": "Citigroup"
+    },
+    {
+      "value": "Archer Daniels Midland",
+      "label": "Archer Daniels Midland"
+    },
+    {
+      "value": "AmerisourceBergen",
+      "label": "AmerisourceBergen"
+    },
+    {
+      "value": "Wells Fargo",
+      "label": "Wells Fargo"
+    },
+    {
+      "value": "Boeing",
+      "label": "Boeing"
+    },
+    {
+      "value": "Procter & Gamble",
+      "label": "Procter & Gamble"
+    },
+    {
+      "value": "Freddie Mac",
+      "label": "Freddie Mac"
+    },
+    {
+      "value": "Home Depot",
+      "label": "Home Depot"
+    },
+    {
+      "value": "Microsoft",
+      "label": "Microsoft"
+    },
+    {
+      "value": "Amazon.com",
+      "label": "Amazon.com"
+    },
+    {
+      "value": "Target",
+      "label": "Target"
+    },
+    {
+      "value": "Walgreen Co.",
+      "label": "Walgreen Co."
+    },
+    {
+      "value": "WellPoint",
+      "label": "WellPoint"
+    },
+    {
+      "value": "Johnson & Johnson",
+      "label": "Johnson & Johnson"
+    },
+    {
+      "value": "American International Group",
+      "label": "American International Group"
+    },
+    {
+      "value": "State Farm Insurance Cos.",
+      "label": "State Farm Insurance Cos."
+    },
+    {
+      "value": "MetLife",
+      "label": "MetLife"
+    },
+    {
+      "value": "PepsiCo",
+      "label": "PepsiCo"
+    },
+    {
+      "value": "Comcast",
+      "label": "Comcast"
+    },
+    {
+      "value": "United Technologies",
+      "label": "United Technologies"
+    },
+    {
+      "value": "Google",
+      "label": "Google"
+    },
+    {
+      "value": "ConocoPhillips",
+      "label": "ConocoPhillips"
+    },
+    {
+      "value": "Dow Chemical",
+      "label": "Dow Chemical"
+    },
+    {
+      "value": "Caterpillar",
+      "label": "Caterpillar"
+    },
+    {
+      "value": "United Parcel Service",
+      "label": "United Parcel Service"
+    },
+    {
+      "value": "Pfizer",
+      "label": "Pfizer"
+    },
+    {
+      "value": "Lowe’s Companies",
+      "label": "Lowe’s Companies"
+    },
+    {
+      "value": "Intel Corporation",
+      "label": "Intel Corporation"
+    },
+    {
+      "value": "Energy Transfer Equity, L.P.",
+      "label": "Energy Transfer Equity, L.P."
+    },
+    {
+      "value": "Cisco Systems, Inc.",
+      "label": "Cisco Systems, Inc."
+    },
+    {
+      "value": "Enterprise Products Partners L.P.",
+      "label": "Enterprise Products Partners L.P."
+    },
+    {
+      "value": "Aetna Inc.",
+      "label": "Aetna Inc."
+    },
+    {
+      "value": "The Coca-Cola Company",
+      "label": "The Coca-Cola Company"
+    },
+    {
+      "value": "Lockheed Martin Corporation",
+      "label": "Lockheed Martin Corporation"
+    },
+    {
+      "value": "Best Buy Co., Inc.",
+      "label": "Best Buy Co., Inc."
+    },
+    {
+      "value": "The Walt Disney Company",
+      "label": "The Walt Disney Company"
+    },
+    {
+      "value": "CHS Inc.",
+      "label": "CHS Inc."
+    },
+    {
+      "value": "Sysco Corporation",
+      "label": "Sysco Corporation"
+    },
+    {
+      "value": "FedEx Corporation",
+      "label": "FedEx Corporation"
+    },
+    {
+      "value": "Merck & Co., Inc.",
+      "label": "Merck & Co., Inc."
+    },
+    {
+      "value": "INTL FCStone Inc.",
+      "label": "INTL FCStone Inc."
+    },
+    {
+      "value": "Safeway Inc.",
+      "label": "Safeway Inc."
+    },
+    {
+      "value": "Johnson Controls, Inc.",
+      "label": "Johnson Controls, Inc."
+    },
+    {
+      "value": "Ingram Micro Inc.",
+      "label": "Ingram Micro Inc."
+    },
+    {
+      "value": "Plains GP Holdings, L.P.",
+      "label": "Plains GP Holdings, L.P."
+    },
+    {
+      "value": "World Fuel Services Corporation",
+      "label": "World Fuel Services Corporation"
+    },
+    {
+      "value": "Prudential Financial, Inc.",
+      "label": "Prudential Financial, Inc."
+    },
+    {
+      "value": "Humana Inc.",
+      "label": "Humana Inc."
+    },
+    {
+      "value": "The Goldman Sachs Group, Inc.",
+      "label": "The Goldman Sachs Group, Inc."
+    },
+    {
+      "value": "Tesoro Corporation",
+      "label": "Tesoro Corporation"
+    },
+    {
+      "value": "Liberty Mutual Holding Company Inc.",
+      "label": "Liberty Mutual Holding Company Inc."
+    },
+    {
+      "value": "Honeywell International Inc.",
+      "label": "Honeywell International Inc."
+    },
+    {
+      "value": "United Continental Holdings, Inc.",
+      "label": "United Continental Holdings, Inc."
+    },
+    {
+      "value": "HCA Holdings, Inc.",
+      "label": "HCA Holdings, Inc."
+    },
+    {
+      "value": "Deere & Company",
+      "label": "Deere & Company"
+    },
+    {
+      "value": "Delta Air Lines, Inc.",
+      "label": "Delta Air Lines, Inc."
+    },
+    {
+      "value": "Oracle Corporation",
+      "label": "Oracle Corporation"
+    },
+    {
+      "value": "Morgan Stanley",
+      "label": "Morgan Stanley"
+    },
+    {
+      "value": "Hess Corporation",
+      "label": "Hess Corporation"
+    },
+    {
+      "value": "Twenty-First Century Fox, Inc.",
+      "label": "Twenty-First Century Fox, Inc."
+    },
+    {
+      "value": "E.I. du Pont de Nemours and Company",
+      "label": "E.I. du Pont de Nemours and Company"
+    },
+    {
+      "value": "Sears Holdings Corporation",
+      "label": "Sears Holdings Corporation"
+    },
+    {
+      "value": "New York Life Insurance Company",
+      "label": "New York Life Insurance Company"
+    },
+    {
+      "value": "Mondelez International, Inc.",
+      "label": "Mondelez International, Inc."
+    },
+    {
+      "value": "American Express Company",
+      "label": "American Express Company"
+    },
+    {
+      "value": "Nationwide Mutual Insurance Co.",
+      "label": "Nationwide Mutual Insurance Co."
+    },
+    {
+      "value": "The Allstate Corporation",
+      "label": "The Allstate Corporation"
+    },
+    {
+      "value": "Tyson Foods, Inc.",
+      "label": "Tyson Foods, Inc."
+    },
+    {
+      "value": "Supervalu Inc.",
+      "label": "Supervalu Inc."
+    },
+    {
+      "value": "TIAA-CREF",
+      "label": "TIAA-CREF"
+    },
+    {
+      "value": "Massachusetts Mutual Life Insurance Company",
+      "label": "Massachusetts Mutual Life Insurance Company"
+    },
+    {
+      "value": "CIGNA Corporation",
+      "label": "CIGNA Corporation"
+    },
+    {
+      "value": "DIRECTV",
+      "label": "DIRECTV"
+    },
+    {
+      "value": "General Dynamics Corporation",
+      "label": "General Dynamics Corporation"
+    },
+    {
+      "value": "Philip Morris International Inc.",
+      "label": "Philip Morris International Inc."
+    }
+  ],
+
+  "designation": [
+    {
+      "value": "Software Developer",
+      "label": "Software Developer"
+    },
+    {
+      "value": "SAP",
+      "label": "SAP"
+    },
+    {
+      "value": "Project Manager",
+      "label": "Project Manager"
+    },
+    {
+      "value": "Project Engineer",
+      "label": "Project Engineer"
+    },
+    {
+      "value": "UI Designer",
+      "label": "UI Designer"
+    },
+    {
+      "value": "Embedded Developer",
+      "label": "Embedded Developer"
+    },
+    {
+      "value": "Sales and Marketing",
+      "label": "Sales and Marketing"
+    },
+    {
+      "value": "Android Developer",
+      "label": "Android Developer"
+    }
+  ],
+  "salary": [
+    {
+      "value": "2.5 to 3.5 Lak",
+      "label": "2.5 to 3.5 Lak"
+    },
+    {
+      "value": "3.5 to 5.5 Lak",
+      "label": "3.5 to 5.5 Lak"
+    },
+    {
+      "value": "5.5 to 8 Lak",
+      "label": "5.5 to 8 Lak"
+    },
+    {
+      "value": "8 to 10 Lak",
+      "label": "8 to 10 Lak"
+    },
+    {
+      "value": "10 Lak and above",
+      "label": "10 Lak and above"
+    }
+  ],
+  "yearofexp": [
+    {
+      "value": "less than 1",
+      "label": "less than 1"
+    },
+    {
+      "value": "less than 2",
+      "label": "less than 2"
+    },
+    {
+      "value": "less than 3",
+      "label": "less than 3"
+    },
+    {
+      "value": "less than 4",
+      "label": "less than 4"
+    },
+    {
+      "value": "less than 5",
+      "label": "less than 5"
+    }
+  ],
+  "gender": [
+    {
+      "value": "Male",
+      "label": "Male"
+    },
+    {
+      "value": "Female",
+      "label": "Female"
+    }
+  ],
+
+  "years": [
+    {
+      "value": "1980",
+      "label": "1980"
+    },
+    {
+      "value": "1981",
+      "label": "1981"
+    },
+    {
+      "value": "1982",
+      "label": "1982"
+    },
+    {
+      "value": "1983",
+      "label": "1983"
+    },
+    {
+      "value": "1984",
+      "label": "1984"
+    },
+    {
+      "value": "1985",
+      "label": "1985"
+    },
+    {
+      "value": "1986",
+      "label": "1986"
+    },
+    {
+      "value": "1987",
+      "label": "1987"
+    },
+    {
+      "value": "1988",
+      "label": "1988"
+    },
+    {
+      "value": "1989",
+      "label": "1989"
+    },
+    {
+      "value": "1990",
+      "label": "1990"
+    },
+    {
+      "value": "1991",
+      "label": "1991"
+    },
+    {
+      "value": "1992",
+      "label": "1992"
+    },
+    {
+      "value": "1993",
+      "label": "1993"
+    },
+    {
+      "value": "1994",
+      "label": "1994"
+    },
+    {
+      "value": "1995",
+      "label": "1995"
+    },
+    {
+      "value": "1996",
+      "label": "1996"
+    },
+    {
+      "value": "1997",
+      "label": "1997"
+    },
+    {
+      "value": "1998",
+      "label": "1998"
+    },
+    {
+      "value": "1999",
+      "label": "1999"
+    },
+    {
+      "value": "2000",
+      "label": "2000"
+    },
+    {
+      "value": "2001",
+      "label": "2001"
+    },
+    {
+      "value": "2002",
+      "label": "2002"
+    },
+    {
+      "value": "2003",
+      "label": "2003"
+    },
+    {
+      "value": "2004",
+      "label": "2004"
+    },
+    {
+      "value": "2005",
+      "label": "2005"
+    },
+    {
+      "value": "2006",
+      "label": "2006"
+    },
+    {
+      "value": "2007",
+      "label": "2007"
+    },
+    {
+      "value": "2008",
+      "label": "2008"
+    },
+    {
+      "value": "2009",
+      "label": "2009"
+    },
+    {
+      "value": "2010",
+      "label": "2010"
+    },
+    {
+      "value": "2011",
+      "label": "2011"
+    },
+    {
+      "value": "2012",
+      "label": "2012"
+    },
+    {
+      "value": "2013",
+      "label": "2013"
+    },
+    {
+      "value": "2014",
+      "label": "2014"
+    },
+    {
+      "value": "2015",
+      "label": "2015"
+    },
+    {
+      "value": "2016",
+      "label": "2016"
+    },
+    {
+      "value": "2017",
+      "label": "2017"
+    },
+    {
+      "value": "2018",
+      "label": "2018"
+    },
+    {
+      "value": "2019",
+      "label": "2019"
+    },
+    {
+      "value": "2020",
+      "label": "2020"
+    },
+    {
+      "value": "2021",
+      "label": "2021"
+    },
+    {
+      "value": "2022",
+      "label": "2022"
+    }
+  ],
+  "skills": [
+    {
+      "value": "Photoshop",
+      "label": "Photoshop"
+    },
+    {
+      "value": "AWS",
+      "label": "AWS"
+    },
+    {
+      "value": "Devops",
+      "label": "Devops"
+    },
+    {
+      "value": "Automation Testing",
+      "label": "Automation Testing"
+    },
+    {
+      "value": "AutoCad",
+      "label": "AutoCad"
+    },
+    {
+      "value": "SQL",
+      "label": "SQL"
+    },
+    {
+      "value": "UI/UX Design",
+      "label": "UI/UX Design"
+    },
+    {
+      "value": "JavaFX",
+      "label": "JavaFX"
+    },
+    {
+      "value": "Nodejs",
+      "label": "Nodejs"
+    },
+    {
+      "value": "SEO",
+      "label": "SEO"
+    },
+    {
+      "value": "Digital Marketing",
+      "label": "Digital Marketing"
+    },
+    {
+      "value": "React",
+      "label": "React"
+    },
+    {
+      "value": "Angular",
+      "label": "Angular"
+    },
+    {
+      "value": "Dotnet",
+      "label": "Dotnet"
+    },
+    {
+      "value": "C++",
+      "label": "C++"
+    },
+    {
+      "value": "Java",
+      "label": "Java"
+    },
+    {
+      "value": "JavaScript",
+      "label": "JavaScript"
+    },
+    {
+      "value": "Python",
+      "label": "Python"
+    },
+    {
+      "value": "C#",
+      "label": "C#"
+    },
+    {
+      "value": "MatLab",
+      "label": "MatLab"
+    },
+    {
+      "value": "Linux",
+      "label": "Linux"
+    },
+    {
+      "value": "Vuejs",
+      "label": "Vuejs"
+    },
+    {
+      "value": "HTML",
+      "label": "HTML"
+    }
+  ],
+  "language": [
+    {
+      "value": "English",
+      "label": "English"
+    },
+    {
+      "value": "Hindi",
+      "label": "Hindi"
+    },
+    {
+      "value": "Sapnish",
+      "label": "Sapnish"
+    },
+    {
+      "value": "German",
+      "label": "German"
+    },
+    {
+      "value": "French",
+      "label": "French"
+    },
+    {
+      "value": "Italian",
+      "label": "Italian"
+    },
+    {
+      "value": "Malayalam",
+      "label": "Malayalam"
+    },
+    {
+      "value": "Tamil",
+      "label": "Tamil"
+    }
+  ]
+}

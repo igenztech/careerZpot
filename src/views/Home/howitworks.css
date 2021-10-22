@@ -1,0 +1,29 @@
+.section-header
+{
+    color:#fff;
+    /* margin-bottom:40px; */
+    text-align:center;
+    position:relative
+}
+.section-header .section-title
+{
+    /* font-size:25px; */
+    /* margin-bottom:10px; */
+    font-family:rubik,sans-serif;
+    font-weight:700;
+    color:rgb(255, 255, 255);
+    position:relative
+}
+.work-process .process-icon
+{
+    /* font-size:48px; */
+    color:#26ae61;
+    display:inline-block;
+    /* margin-bottom:10px */
+}
+.work-process h4
+{
+    /* font-size:20px; */
+    font-weight:500;
+    /* margin-bottom:10px */
+}
